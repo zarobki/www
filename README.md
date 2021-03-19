@@ -1,3 +1,5 @@
+![zarobki.com.pl](https://logo.zarobki.com.pl/2/cover.png)
+
 # [zarobki.com.pl](https://www.zarobki.com.pl)
 
 ## zarobki .com .pl - kalkulator podatkowy
