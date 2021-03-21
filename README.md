@@ -45,12 +45,23 @@ Kwota podana w ogłoszeniu:
 + Netto
 
 
-Wyliczenie kwoty na "rękę":
+# Wyliczenie kwoty na "rękę"
+Nie jest proste biorąc pod uwagę wszystkie czynniki,
+nie tylko samą stawkę za miesiąc, czy godzinę, ale też zasady współpracy
+energiochłonnośc zadać, dodatkowe benfity, czy po prostu ilość czasu przebywania w rozjazdach.
+
+
+## Dla jednych najlepszą opcją jest:
++ brutto na UoP,
+
+## dla innych:
++ netto na fv + premie, bonusy roczne i nagrody
+ 
+Wielu tez zwraca uwagi na zasady ich przyznawania i orientacyjną wysokość (zwykle to wysokości procentowe, więc łatwe do opisania w stanowisku pracy. 
 
 
 
-
-
+TAG:
 • dochody, 
 • pensja, 
 • pensyjka, 
