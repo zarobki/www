@@ -12,6 +12,8 @@
 # Rezydencja podatkowa
 https://direct.money.pl/artykuly/porady/jak-rozliczyc-dochody-z-pracy-za-granica,9,0,2312457
 
+https://www2.deloitte.com/pl/pl/pages/doradztwo-prawne/articles/newsletter-strefa-pracodawcy-podatki-i-prawo/oddelegowania_rezydent_nierezydent_obcokrajowiec.html
+
 ## zarobki .com .pl - kalkulator podatkowy
  
 ## Czy warto być być transparentnym? 
