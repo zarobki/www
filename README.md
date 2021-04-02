@@ -1,6 +1,16 @@
 ![zarobki.com.pl](https://logo.zarobki.com.pl/2/cover.png)
 
 # [zarobki.com.pl](https://www.zarobki.com.pl)
++ opodatkowanie w jednym z krajów:
+ + Polska
+ + Niemcy
+ + Wielka Brytania
+
++ Określenie rezydencji:
+ + w zależności od parametrów
+
+# Rezydencja podatkowa
+https://direct.money.pl/artykuly/porady/jak-rozliczyc-dochody-z-pracy-za-granica,9,0,2312457
 
 ## zarobki .com .pl - kalkulator podatkowy
  
