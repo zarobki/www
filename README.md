@@ -88,3 +88,6 @@ TAG:
 • gotówka, 
 • pieniądze, 
 
+## Germany
+https://www.brutto-netto-rechner24.de/
+
