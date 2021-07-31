@@ -91,3 +91,6 @@ TAG:
 ## Germany
 https://www.brutto-netto-rechner24.de/
 
+## Inne
+https://www.pwc.pl/pl/artykuly/kalkulator-nowy-lad.html
+
